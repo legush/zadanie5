@@ -8,8 +8,8 @@ namespace zadanie5
         public class student {
             public string ID;
             public string FIO;
-            public string group;
             public string date;
+            public string group;
         }
 
         static List<student> SL = new List<student>();
