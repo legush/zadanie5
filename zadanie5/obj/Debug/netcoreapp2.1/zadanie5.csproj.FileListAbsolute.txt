@@ -1,0 +1,11 @@
+C:\Users\ААААААААА\source\repos\zadanie5\zadanie5\bin\Debug\netcoreapp2.1\zadanie5.deps.json
+C:\Users\ААААААААА\source\repos\zadanie5\zadanie5\bin\Debug\netcoreapp2.1\zadanie5.runtimeconfig.json
+C:\Users\ААААААААА\source\repos\zadanie5\zadanie5\bin\Debug\netcoreapp2.1\zadanie5.runtimeconfig.dev.json
+C:\Users\ААААААААА\source\repos\zadanie5\zadanie5\bin\Debug\netcoreapp2.1\zadanie5.dll
+C:\Users\ААААААААА\source\repos\zadanie5\zadanie5\bin\Debug\netcoreapp2.1\zadanie5.pdb
+C:\Users\ААААААААА\source\repos\zadanie5\zadanie5\obj\Debug\netcoreapp2.1\zadanie5.csprojAssemblyReference.cache
+C:\Users\ААААААААА\source\repos\zadanie5\zadanie5\obj\Debug\netcoreapp2.1\zadanie5.csproj.CoreCompileInputs.cache
+C:\Users\ААААААААА\source\repos\zadanie5\zadanie5\obj\Debug\netcoreapp2.1\zadanie5.AssemblyInfoInputs.cache
+C:\Users\ААААААААА\source\repos\zadanie5\zadanie5\obj\Debug\netcoreapp2.1\zadanie5.AssemblyInfo.cs
+C:\Users\ААААААААА\source\repos\zadanie5\zadanie5\obj\Debug\netcoreapp2.1\zadanie5.dll
+C:\Users\ААААААААА\source\repos\zadanie5\zadanie5\obj\Debug\netcoreapp2.1\zadanie5.pdb
